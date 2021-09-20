@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Simone Starace GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneStarace&count_private=true&show_icons=true&theme=radical)](https://github.com/SimoneStarace/github-readme-stats)
+[![Simone Starace GitHub stats](https://github-readme-stats.vercel.app/api?username=SimoneStarace&count_private=true&show_icons=true&theme=github_dark)](https://github.com/SimoneStarace/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneStarace&layout=compact&theme=radical)](https://github.com/SimoneStarace/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneStarace&layout=compact&theme=github_dark)](https://github.com/SimoneStarace/github-readme-stats)
 
 <!--
 **SimoneStarace/SimoneStarace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
