@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Where you can find me online:
+
+- [LinkedIn](https://www.linkedin.com/in/simone-starace-ba60a9111/)
+- [StackOverflow](https://stackoverflow.com/users/10933292/simone)
+- [Youtube](https://www.youtube.com/channel/UCkMlHXJOq3VNSPIejnRZtMw)
+
+![Profile views](https://gpvc.arturio.dev/BEPb)
