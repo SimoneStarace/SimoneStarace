@@ -15,6 +15,7 @@
 - [LinkedIn](https://www.linkedin.com/in/simone-starace-ba60a9111/)
 - [StackOverflow](https://stackoverflow.com/users/10933292/simone)
 - [Youtube](https://www.youtube.com/channel/UCkMlHXJOq3VNSPIejnRZtMw)
+- ![CodeWars](https://www.codewars.com/users/SimoneStarace/badges/small)
 
 ## StackExchange and subsites
 <!--
