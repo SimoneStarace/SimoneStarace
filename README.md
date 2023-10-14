@@ -14,6 +14,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Simone_Starace-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simone-starace-ba60a9111/)<br />
 [![Static Badge](https://img.shields.io/badge/Simone_Starace-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCkMlHXJOq3VNSPIejnRZtMw)<br />
+[![Static Badge](https://img.shields.io/badge/itch.io-Simone_Starace-grey?style=for-the-badge&logo=itch.io)](https://simone-starace.itch.io/)<br />
 [![Static Badge](https://img.shields.io/badge/Stack_Overflow-Simone_Starace-grey?style=for-the-badge&labelColor=orange)](https://stackoverflow.com/users/10933292/simone)<br />
 ![CodeWars](https://www.codewars.com/users/SimoneStarace/badges/small)
 
