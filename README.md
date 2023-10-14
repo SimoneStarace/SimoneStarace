@@ -10,14 +10,14 @@
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></img>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png" alt="Godot"></img>
 
-# Online Links:
+# Online Links
 
-- [LinkedIn](https://www.linkedin.com/in/simone-starace-ba60a9111/)
-- [StackOverflow](https://stackoverflow.com/users/10933292/simone)
-- [Youtube](https://www.youtube.com/channel/UCkMlHXJOq3VNSPIejnRZtMw)
-- ![CodeWars](https://www.codewars.com/users/SimoneStarace/badges/small)
+[![Static Badge](https://img.shields.io/badge/Simone_Starace-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simone-starace-ba60a9111/)<br />
+[![Static Badge](https://img.shields.io/badge/Simone_Starace-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCkMlHXJOq3VNSPIejnRZtMw)<br />
+[![Static Badge](https://img.shields.io/badge/Stack_Overflow-Simone_Starace-grey?style=for-the-badge&labelColor=orange)](https://stackoverflow.com/users/10933292/simone)<br />
+![CodeWars](https://www.codewars.com/users/SimoneStarace/badges/small)
 
-## StackExchange and subsites
+## StackExchange
 <!--
 <a href="https://stackexchange.com/users/15150922/simone"><img src="https://stackexchange.com/users/flair/15150922.png" width="208" height="58" alt="profile for Simone on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Simone on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 -->
