@@ -26,9 +26,12 @@
 | [![Static Badge](https://img.shields.io/badge/CodinGame-yellow?style=for-the-badge&logo=codingame&logoColor=black)](https://www.codingame.com/profile/166be0e6e0fb2c285256313273b92fdc0856864) | |
 | [![Static Badge](https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/SimoneStarace/stats) | ![CodeWars](https://www.codewars.com/users/SimoneStarace/badges/micro) |
 
-## Game Stores
+## Game Stores & Communities
 
-[![Static Badge](https://img.shields.io/badge/itch.io-%23500000?style=for-the-badge&logo=itch.io)](https://simone-starace.itch.io/)<br />
+| Website | Info |
+| :-----: | ---- |
+| [![Static Badge](https://img.shields.io/badge/itch.io-%23500000?style=for-the-badge&logo=itch.io)](https://simone-starace.itch.io/) | |
+| [![Static Badge](https://img.shields.io/badge/GameBanana-yellow?style=for-the-badge&logo=gamebanana&logoColor=black)](https://gamebanana.com/members/1735995) | |
 
 
 ## Stack Exchange and other accounts
