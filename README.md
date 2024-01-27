@@ -17,7 +17,7 @@
 - [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/simone-starace-ba60a9111/)
 - [![Static Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCkMlHXJOq3VNSPIejnRZtMw)
   - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkMlHXJOq3VNSPIejnRZtMw?style=plastic)
-  - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkMlHXJOq3VNSPIejnRZtMw?style=plastic) |
+  - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCkMlHXJOq3VNSPIejnRZtMw?style=plastic)
 
 ## Coding
 
@@ -40,4 +40,4 @@
 - [![Static Badge](https://img.shields.io/badge/Data_Science-%230060a3?style=for-the-badge&labelColor=%23800000)](https://datascience.stackexchange.com/users/133020/simone-starace)
 - [![Static Badge](https://img.shields.io/badge/Server_Fault-lightgrey?style=for-the-badge&logo=serverfault)](https://serverfault.com/users/583224/simone-starace)
 - [![Static Badge](https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge)](https://stackoverflow.com/users/10933292/simone)
-  - <a href="https://stackoverflow.com/users/10933292/simone-starace"><img src="https://stackoverflow.com/users/flair/10933292.png?theme=dark" alt="StackOverflow Profile"></a> |
+  - <a href="https://stackoverflow.com/users/10933292/simone-starace"><img src="https://stackoverflow.com/users/flair/10933292.png?theme=dark" alt="StackOverflow Profile"></a>
